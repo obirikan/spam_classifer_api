@@ -1,4 +1,3 @@
-# train_model.py
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -21,5 +20,5 @@ model = MultinomialNB()
 model.fit(X_train_vec, y_train)
 
 # Save model and vectorizer
-joblib.dump(vectorizer, './model/vectorizer.pkl')
-joblib.dump(model, './model/spam_model.pkl')
+# joblib.dump(vectorizer, './model/vectorizer.pkl')
+# joblib.dump(model, './model/spam_model.pkl')

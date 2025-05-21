@@ -1,0 +1,48 @@
+
+2025-05-21 18:27:53,411 - spam_detector - INFO - Received message with length: 8
+2025-05-21 18:27:53,411 - spam_detector - INFO - Cleaned input: Im happy
+2025-05-21 18:27:53,415 - spam_detector - INFO - Spam detection result: False
+2025-05-21 18:28:02,112 - spam_detector - INFO - Received message with length: 9
+2025-05-21 18:28:02,113 - spam_detector - INFO - Cleaned input: I'm happy
+2025-05-21 18:28:02,114 - spam_detector - INFO - Spam detection result: False
+2025-05-21 18:28:25,510 - spam_detector - INFO - Received message with length: 185
+2025-05-21 18:28:25,510 - spam_detector - INFO - Cleaned input: there,It was great connecting at the Industry Summit last week. As promised, Im sending over that information about our data analytics solution that we discussed during the coffee break
+2025-05-21 18:28:25,511 - spam_detector - INFO - Spam detection result: False
+2025-05-21 18:29:52,517 - spam_detector - INFO - Received message with length: 67
+2025-05-21 18:29:52,517 - spam_detector - INFO - Cleaned input: Subject: Follow-up on our conversation from the conference Hi there
+2025-05-21 18:29:52,519 - spam_detector - INFO - Spam detection result: False
+2025-05-21 18:37:02,893 - spam_detector - INFO - Received message with length: 10
+2025-05-21 18:37:02,893 - spam_detector - INFO - Cleaned body: new update
+2025-05-21 18:37:02,896 - spam_detector - INFO - Spam detection result: False
+2025-05-21 18:38:00,765 - spam_detector - INFO - Received message with length: 68
+2025-05-21 18:38:00,765 - spam_detector - DEBUG - Whitespace cleaning removed 1 characters
+2025-05-21 18:38:00,765 - spam_detector - INFO - Subject: Follow-up on our conversation from the conference Hi there
+2025-05-21 18:38:00,765 - spam_detector - INFO - Subject length: 58
+2025-05-21 18:38:00,765 - spam_detector - INFO - Cleaned body: Subject: Follow-up on our conversation from the conference Hi there
+2025-05-21 18:38:00,766 - spam_detector - INFO - Spam detection result: False
+2025-05-21 18:38:25,784 - spam_detector - INFO - Received message with length: 87
+2025-05-21 18:38:25,784 - spam_detector - INFO - Subject: Follow-up on our conversation free trip to bonaza from the conference Hi there
+2025-05-21 18:38:25,784 - spam_detector - INFO - Subject length: 78
+2025-05-21 18:38:25,784 - spam_detector - INFO - Cleaned body: Subject: Follow-up on our conversation free trip to bonaza from the conference Hi there
+2025-05-21 18:38:25,785 - spam_detector - INFO - Spam detection result: False
+2025-05-21 18:38:49,449 - spam_detector - INFO - Received message with length: 37
+2025-05-21 18:38:49,449 - spam_detector - DEBUG - Whitespace cleaning removed 1 characters
+2025-05-21 18:38:49,450 - spam_detector - INFO - Subject: win a cash price from ghana
+2025-05-21 18:38:49,450 - spam_detector - INFO - Subject length: 27
+2025-05-21 18:38:49,450 - spam_detector - INFO - Cleaned body: Subject: win a cash price from ghana
+2025-05-21 18:38:49,450 - spam_detector - INFO - Spam detection result: True
+2025-05-21 18:38:57,538 - spam_detector - INFO - Received message with length: 16
+2025-05-21 18:38:57,539 - spam_detector - INFO - Subject: Nigeria
+2025-05-21 18:38:57,539 - spam_detector - INFO - Subject length: 7
+2025-05-21 18:38:57,539 - spam_detector - INFO - Cleaned body: Subject: Nigeria
+2025-05-21 18:38:57,540 - spam_detector - INFO - Spam detection result: False
+2025-05-21 18:39:06,881 - spam_detector - INFO - Received message with length: 27
+2025-05-21 18:39:06,881 - spam_detector - DEBUG - Whitespace cleaning removed 1 characters
+2025-05-21 18:39:06,881 - spam_detector - INFO - Subject: travel to Nigeria
+2025-05-21 18:39:06,881 - spam_detector - INFO - Subject length: 17
+2025-05-21 18:39:06,881 - spam_detector - INFO - Cleaned body: Subject: travel to Nigeria
+2025-05-21 18:39:06,882 - spam_detector - INFO - Spam detection result: False
+2025-05-21 18:39:24,969 - spam_detector - INFO - Received message with length: 36
+2025-05-21 18:39:24,970 - spam_detector - DEBUG - Whitespace cleaning removed 2 characters
+2025-05-21 18:39:24,970 - spam_detector - INFO - Cleaned body: Subject:ready to travel to Nigeria
+2025-05-21 18:39:24,972 - spam_detector - INFO - Spam detection result: False
