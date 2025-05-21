@@ -123,7 +123,7 @@ Make sure to rename the downloaded file to `spam_data.tsv` and place it in the r
 
 * [ ] Add frontend (optional)
 * [ ] Add logging and error handling
-* [ ] Deploy to cloud (e.g., Render, Vercel, Railway)
+* [ ] Add retraining dataset with new data 
 
 ---
 
