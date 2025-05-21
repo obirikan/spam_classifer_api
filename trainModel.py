@@ -20,5 +20,5 @@ model = MultinomialNB()
 model.fit(X_train_vec, y_train)
 
 # Save model and vectorizer
-# joblib.dump(vectorizer, './model/vectorizer.pkl')
-# joblib.dump(model, './model/spam_model.pkl')
+joblib.dump(vectorizer, './model/vectorizer.pkl')
+joblib.dump(model, './model/spam_model.pkl')
